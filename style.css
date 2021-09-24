@@ -1,0 +1,86 @@
+*{
+    margin :0;
+}
+body{
+    background: linear-gradient(90deg,white,skyblue,white) ;
+    
+}
+#header{
+    background-color: rgb(46, 128, 160);
+    height: 70px;
+}
+#Brand{
+    width : 40%;
+    float : left;
+    color : cornsilk;
+    line-height: 70px;
+    text-align: left;
+    margin-left: 30px;
+}
+#nav{
+    width : 30%;
+    float : right;
+    text-align: center;
+    line-height: 70px;
+    
+}
+a{
+    color: cornsilk;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* main styling */
+
+#name{
+    text-align: center;
+    margin-top: 50px;
+}
+#p{
+    background: linear-gradient(45deg,white,darkblue,white);
+    width : 20%;
+    text-align: center;
+    margin : 20px auto;
+    color: cornsilk;
+    border-radius: 50%;
+    padding: 10px;
+}
+table{
+    width : 100%;
+    text-align: center;
+    margin: 20px;
+}
+img{
+    border-radius: 50px;
+}
+#b{
+    background: linear-gradient(45deg,white,darkblue,white);
+    width : 20%;
+    text-align: center;
+    margin : 20px auto;
+    color: cornsilk;
+    border-radius: 50%;
+    padding: 10px;
+}
+#f{
+    background: linear-gradient(45deg,white,darkblue,white);
+    width : 20%;
+    text-align: center;
+    margin : 20px auto;
+    color: cornsilk;
+    border-radius: 50%;
+    padding: 10px;
+}
+div{
+    text-align: center;
+}
+
+/* Footer stying */
+
+#footer{
+    background: black;
+    color: cornsilk;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
